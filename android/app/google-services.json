@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "897615841089",
+    "firebase_url": "https://chat-app-38e2e.firebaseio.com",
+    "project_id": "chat-app-38e2e",
+    "storage_bucket": "chat-app-38e2e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897615841089:android:4ea38db2aceb05a2f5c3c0",
+        "android_client_info": {
+          "package_name": "com.amansahu.firebase_proj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "897615841089-ea3823g1f75449fisphlvfu2cieo2lmd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpD_QXI3WbtX4GUAPeLgkXGcq2dqR0sx4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "897615841089-ea3823g1f75449fisphlvfu2cieo2lmd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
